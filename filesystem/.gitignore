@@ -1,0 +1,26 @@
+# Generated files
+bin/
+obj/
+*.log
+
+# Eclipse files
+RemoteSystemsTempFiles/
+Debug/
+Release/
+.settings/
+.cproject
+.project
+
+# CLion files
+.idea/
+
+# Visual Studio Code files
+.vscode/*
+!.vscode/c_cpp_properties.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Estructuras FS
+bitmap.dat
+bloques.dat
+cfg/FCBs/*.dat

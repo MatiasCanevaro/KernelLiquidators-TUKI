@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "main.h": "c",
+        "utils.h": "c",
+        "log.h": "c",
+        "logs.h": "c",
+        "unistd.h": "c",
+        "instruccion.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

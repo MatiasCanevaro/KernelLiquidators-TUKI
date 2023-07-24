@@ -1,0 +1,41 @@
+{
+	"settings": { 
+		"debug.onTaskErrors": "abort", 
+		"files.associations": {
+			"*.h": "c",
+			"atomic": "c",
+			"cstdio": "c",
+			"cmath": "c",
+			"*.tcc": "c",
+			"type_traits": "c",
+			"list": "c"
+		}, 
+		"C_Cpp.errorSquiggles": "disabled", 
+	}, 
+	"folders": [
+		{
+			"name": "consola",
+			"path": "consola"
+		},
+		{
+			"name": "cpu",
+			"path": "cpu"
+		},
+		{
+			"name": "memoria",
+			"path": "memoria"
+		},
+		{
+			"name": "kernel",
+			"path": "kernel"
+		},
+		{
+			"name": "filesystem",
+			"path": "filesystem"
+		},
+		{
+			"name": "shared",
+			"path": "shared"
+		}
+	]
+}
